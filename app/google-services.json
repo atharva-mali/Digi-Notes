@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248084945108",
+    "project_id": "diginotes-eb9d9",
+    "storage_bucket": "diginotes-eb9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248084945108:android:0ac2954b8b637dddad8341",
+        "android_client_info": {
+          "package_name": "com.example.diginotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248084945108-ja8p1efiae6lfjs91ctfdflmsp8slmkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3re9nHpf_2Ne6QJWlc4SqtN7hSzF2yrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248084945108-ja8p1efiae6lfjs91ctfdflmsp8slmkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
